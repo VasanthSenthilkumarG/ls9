@@ -1,0 +1,15 @@
+{
+  "name": "NodeJs-Sms-Verification-system-codershood",
+  "version": "0.0.1",
+  "description": "NodeJs-Sms-Verification-system-codershood",
+  "author": "Shashank Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.21",
+    "msg91": "0.0.6",
+  }
+}
